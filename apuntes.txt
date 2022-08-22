@@ -2,3 +2,4 @@ ls
 exit
 ----
 xrandr --output DP-4 --mode 1920x1080 --rate 240
+feh --bg-scale Downloads/shits/wallpapers/1659619714021190.png
